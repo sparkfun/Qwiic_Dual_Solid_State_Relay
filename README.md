@@ -1,41 +1,34 @@
-SparkFun <PRODUCT NAME>
+SparkFun Qwiic Dual Solid State Relay
 ========================================
 
-![SparkFun Part Name](URL for picture of part)
+![SparkFun Qwiic Dual Solid State Relay](URL for picture of part)
 
-[*SparkFun Part Name (SKU)*](URL for product on Sparkfun.com)
+[*SparkFun Qwiic Dual Solid State Relay (COM-16810)*](https://www.sparkfun.com/products/16810)
 
-<Basic description of the part.>
+The SparkFun Qwiic Dual Solid State Relay integrates two solid state relays on to a single board allowing you to control both of them from a microcontroller via I<sup>2</sup>C with the Qwiic Ecosystem. The relays are rated for 25A @240VAC so you can control some serious power with this board. 
+
+The Qwiic Dual Solid State Relay comes fully assembled and uses the simple [Qwiic interface](https://www.sparkfun.com/qwiic). No soldering, no voltage translation, no figuring out which pin is SDA or SCL, just plug and go!
+
+**Note:** Controlling high voltage (110/220VAC) requires certain precautions. A beginner can do it but if you're wary of working with high voltage, you may want to consider the pre-made [IoT Power Relay](https://www.sparkfun.com/products/14236). It's not controlled via I<sup>2</sup>C but the IoT Power Relay contains shielding to prevent accidental shock.
 
 Repository Contents
 -------------------
 
 * **/Documentation** - Data sheets, additional product information
-* **/Enclosure** - Enclosure files 
-* **/Firmware** - Example code 
+* **/Firmware** - Latest firmware
 * **/Hardware** - Eagle design files (.brd, .sch)
-* **/Libraries** - Libraries for use with the <PRODUCT NAME>
 * **/Production** - Production panel files (.brd)
-* **/Software** - Related software for the <PRODUCT NAME>
 
 Documentation
 --------------
-* **[Library](GitHub library URL)** - <LANGUAGE> library for the <PRODUCT NAME>.
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the <PRODUCT NAME>.
+* **[SparkFun Qwiic Relay Arduino Library](https://github.com/sparkfun/SparkFun_Qwiic_Relay_Arduino_Library)** - Arduino library for SparkFun Qwiic Relay boards.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-qwiic-dual-solid-state-relay-hookup-guide)** - Basic hookup guide for the Qwiic Dual Solid State Relay.
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
-* **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products.
 
 Product Versions
 ----------------
-* [Part SKU](part URL)- Basic part and short description here
-* [Retail part SKU](retail URL)- Retail packaging of standard description here
-* [Any other parts this repo covers](any other URLs) - Description of said parts
-
-Version History
----------------
-* [vExxFxxZxxHxxLxxSxx](URL for tag specific to this version) - Description 
-* [vEyyFyyZyyHyyLyySyy](URL for tag specific to this version) - Description
+* [COM-16810](https://www.sparkfun.com/products/16810)- Initial release of the Qwiic Dual Solid State Relay.
 
 License Information
 -------------------
@@ -49,5 +42,3 @@ If you have any questions or concerns on licensing, please contact technical sup
 Distributed as-is; no warranty is given.
 
 - Your friends at SparkFun.
-
-_<COLLABORATION CREDIT>_
