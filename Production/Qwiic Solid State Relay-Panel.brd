@@ -164,7 +164,7 @@
 <wire x1="2.54" y1="0" x2="21.63" y2="0" width="0.2032" layer="20"/>
 <wire x1="31.63" y1="0" x2="87.63" y2="0" width="0.2032" layer="20"/>
 <wire x1="90.17" y1="2.54" x2="90.17" y2="64.77" width="0.2032" layer="20"/>
-<text x="74.93" y="0.254" size="1.27" layer="16" font="vector" ratio="15" rot="MR0">v10</text>
+<text x="74.93" y="0.254" size="1.27" layer="16" font="vector" ratio="15" rot="MR0">v11</text>
 <wire x1="87.63" y1="67.31" x2="2.54" y2="67.31" width="0.2032" layer="20"/>
 <wire x1="0" y1="64.77" x2="0" y2="2.54" width="0.2032" layer="20"/>
 <wire x1="13.97" y1="60.96" x2="12.7" y2="59.69" width="0.2032" layer="20" curve="90"/>
@@ -211,7 +211,7 @@
 <wire x1="93.218" y1="0" x2="112.308" y2="0" width="0.2032" layer="20"/>
 <wire x1="122.308" y1="0" x2="178.308" y2="0" width="0.2032" layer="20"/>
 <wire x1="180.848" y1="2.54" x2="180.848" y2="64.77" width="0.2032" layer="20"/>
-<text x="165.608" y="0.254" size="1.27" layer="16" font="vector" ratio="15" rot="MR0">v10</text>
+<text x="165.608" y="0.254" size="1.27" layer="16" font="vector" ratio="15" rot="MR0">v11</text>
 <wire x1="178.308" y1="67.31" x2="93.218" y2="67.31" width="0.2032" layer="20"/>
 <wire x1="90.678" y1="64.77" x2="90.678" y2="2.54" width="0.2032" layer="20"/>
 <wire x1="104.648" y1="60.96" x2="103.378" y2="59.69" width="0.2032" layer="20" curve="90"/>
@@ -258,7 +258,7 @@
 <wire x1="2.54" y1="67.818" x2="21.63" y2="67.818" width="0.2032" layer="20"/>
 <wire x1="31.63" y1="67.818" x2="87.63" y2="67.818" width="0.2032" layer="20"/>
 <wire x1="90.17" y1="70.358" x2="90.17" y2="132.588" width="0.2032" layer="20"/>
-<text x="74.93" y="68.072" size="1.27" layer="16" font="vector" ratio="15" rot="MR0">v10</text>
+<text x="74.93" y="68.072" size="1.27" layer="16" font="vector" ratio="15" rot="MR0">v11</text>
 <wire x1="87.63" y1="135.128" x2="2.54" y2="135.128" width="0.2032" layer="20"/>
 <wire x1="0" y1="132.588" x2="0" y2="70.358" width="0.2032" layer="20"/>
 <wire x1="13.97" y1="128.778" x2="12.7" y2="127.508" width="0.2032" layer="20" curve="90"/>
@@ -305,7 +305,7 @@
 <wire x1="93.218" y1="67.818" x2="112.308" y2="67.818" width="0.2032" layer="20"/>
 <wire x1="122.308" y1="67.818" x2="178.308" y2="67.818" width="0.2032" layer="20"/>
 <wire x1="180.848" y1="70.358" x2="180.848" y2="132.588" width="0.2032" layer="20"/>
-<text x="165.608" y="68.072" size="1.27" layer="16" font="vector" ratio="15" rot="MR0">v10</text>
+<text x="165.608" y="68.072" size="1.27" layer="16" font="vector" ratio="15" rot="MR0">v11</text>
 <wire x1="178.308" y1="135.128" x2="93.218" y2="135.128" width="0.2032" layer="20"/>
 <wire x1="90.678" y1="132.588" x2="90.678" y2="70.358" width="0.2032" layer="20"/>
 <wire x1="104.648" y1="128.778" x2="103.378" y2="127.508" width="0.2032" layer="20" curve="90"/>
