@@ -30,10 +30,10 @@
 
 #define NUM_RELAYS 4
 
-#define RELAY_ONE 0
-#define RELAY_TWO 1
-#define RELAY_THREE 2
-#define RELAY_FOUR 3
+#define RELAY_ONE 3
+#define RELAY_TWO 2
+#define RELAY_THREE 1
+#define RELAY_FOUR 0
 
 // Commands that toggle the relays.
 #define RELAY_ONE_TOGGLE 0x01
