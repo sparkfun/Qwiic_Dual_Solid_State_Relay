@@ -1,7 +1,7 @@
 SparkFun Qwiic Dual Solid State Relay
 ========================================
 
-![SparkFun Qwiic Dual Solid State Relay](URL for picture of part)
+![SparkFun Qwiic Dual Solid State Relay](https://cdn.sparkfun.com/assets/parts/1/5/7/2/1/16810-SparkFun_Qwiic_Dual_Solid_State_Relay-01.jpg)
 
 [*SparkFun Qwiic Dual Solid State Relay (COM-16810)*](https://www.sparkfun.com/products/16810)
 
@@ -22,6 +22,7 @@ Repository Contents
 Documentation
 --------------
 * **[SparkFun Qwiic Relay Arduino Library](https://github.com/sparkfun/SparkFun_Qwiic_Relay_Arduino_Library)** - Arduino library for SparkFun Qwiic Relay boards.
+* **[SparkFun Qwiic Relay Python Package](https://github.com/sparkfun/Qwiic_Relay_Py)** - Python package for SparkFun Qwiic Solid State Relay boards.
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-qwiic-dual-solid-state-relay-hookup-guide)** - Basic hookup guide for the Qwiic Dual Solid State Relay.
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
