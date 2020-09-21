@@ -104,7 +104,7 @@ void loop(void) {
         startTime = millis();
         beginPWM = false;
       }
-      digitalWrite(relayNum, HIGH);
+      digitalWrite(relayPins[relayNum], HIGH);
       status[relayNum] = RELAY_IS_ON;
       pwmOffTime[relayNum] = startTime + (pwmValues[relayNum] * SLOW_PWM_STEP_TIME);
     }
@@ -115,7 +115,7 @@ void loop(void) {
   {
     if ((SLOW_PWM_STEP_TIME * pwmValues[relayNum]) < elapsed && beginPWM == false)
     {
-      digitalWrite(relayNum, LOW);
+      digitalWrite(relayPins[relayNum], LOW);
 
       status[relayNum] = RELAY_IS_OFF;
     }
