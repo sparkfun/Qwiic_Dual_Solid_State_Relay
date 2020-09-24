@@ -14,7 +14,6 @@ The Qwiic Dual Solid State Relay comes fully assembled and uses the simple [Qwii
 Repository Contents
 -------------------
 
-* **/Documentation** - Data sheets, additional product information
 * **/Firmware** - Latest firmware
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Production** - Production panel files (.brd)
